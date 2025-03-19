@@ -1,0 +1,10 @@
+-colocar desfoque quando menu for clicado.✓
+-arrumar desing do formulario.✓
+-arrumar footer.
+-arrumar cores e fonte.
+-colocar animaçoes no site geral.✓
+-trocar carrossel 1 pelo video
+-criar aba de vivencias 
+-seis projetos✓
+
+ORDEM: video, sobre, projetos, vivencias, feedback, contato e footer.
