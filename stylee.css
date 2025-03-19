@@ -846,7 +846,7 @@ main .caixa{
   .conteudo-fundo{
     height: 600px;
   }
-  .conteudo-video>video{
+  .conteudo-video>iframe{
     width: 360px;
   height: 204px;
   border: 3px solid white;
@@ -868,7 +868,7 @@ main .caixa{
   height: 600px;
 }
 @media (min-width: 450px){
-  .conteudo-video>video{
+  .conteudo-video>iframe{
     width: 441px;
     height: 252px;
     border: 3px solid white;
